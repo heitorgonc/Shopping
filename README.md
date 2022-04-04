@@ -29,8 +29,8 @@
 <p align="center"><a href="https://www.php.net/downloads">PHP</a> e qualquer editor de texto como o <a href="https://code.visualstudio.com/">VSCode</a> 
   e o <a href="https://getcomposer.org/doc/00-intro.md">Composer</a></p>
 
-<h3 align="center">Rodando o projeto</h3>
-<h5 align="center">Clone este repositório</h5>
+<h3>Rodando o projeto</h3>
+<h4 align="center">Clone este repositório</h4>
 <p align="center">$ git clone https://github.com/heitorgonc/Shopping</p>
 <h5 align="center">Habilite o <a href="https://www.php.net/manual/en/ref.pdo-sqlite.php">pdo_sql</a> driver</h5>
 <h5 align="center">Adicione o <a href="https://getcomposer.org/doc/01-basic-usage.md#autoloading">autoload</a></h5>

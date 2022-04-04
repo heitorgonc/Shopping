@@ -3,10 +3,8 @@
 <p align="center">Learning project PHP</p>
 
 <p align="center">
- <a href="#preRequisitos">Pré Requisitos</a>
+ <a href="#preRequisitos">Pré Requisitos</a> •
  <a href="#tecnologias">Tecnologias</a> •
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
 </p>
 
 <h3 align="center"> Em desenvolvimento</h3>

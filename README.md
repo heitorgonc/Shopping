@@ -25,15 +25,15 @@
 - [ ] Deletar registro
 
 <h2 id="preRequisitos">Pré Requisitos</h2>
-<p>Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
+<p align="center">Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 <p align="center"><a href="https://www.php.net/downloads">PHP</a> e qualquer editor de texto como o <a href="https://code.visualstudio.com/">VSCode</a> 
   e o <a href="https://getcomposer.org/doc/00-intro.md">Composer</a></p>
 
 <h3 align="center">Rodando o projeto</h3>
-<h4 align="center">Clone este repositório</h4>
+<h5 align="center">Clone este repositório</h5>
 <p align="center">$ git clone https://github.com/heitorgonc/Shopping</p>
-  <p align="center">Habilite o <a href="https://www.php.net/manual/en/ref.pdo-sqlite.php">pdo_sql</a> driver</p>
-  <p align="center">Adicione o <a href="https://getcomposer.org/doc/01-basic-usage.md#autoloading">autoload</a></p>
+<h5 align="center">Habilite o <a href="https://www.php.net/manual/en/ref.pdo-sqlite.php">pdo_sql</a> driver</h5>
+<h5 align="center">Adicione o <a href="https://getcomposer.org/doc/01-basic-usage.md#autoloading">autoload</a></h5>
   <p align="center">$ php composer.phar dump-autoload</p>
   <p align="center">Adicione o <a href="https://packagist.org/packages/symfony/dotenv">symfony/dotenv</a></p>
   <p align="center">$ composer require symfony/dotenv</p>

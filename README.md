@@ -12,9 +12,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center"> 
-	Em desenvolvimento
-</h4>
+### Em desenvolvimento
 
 ### Features
 
@@ -26,14 +24,10 @@
 - [ ] Atualizar registro
 - [ ] Deletar registro
 
-<h4 id="preRequisitos">
-  Pré Requisitos
-</h4>
-<p>
-  Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-  <a href="https://www.php.net/downloads">PHP</a> e qualquer editor de texto como o <a href="https://code.visualstudio.com/">VSCode</a> 
-  e o <a href="https://getcomposer.org/doc/00-intro.md">Composer</a> 
-</p>
+<h2 id="preRequisitos">Pré Requisitos</h2>
+<p>Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
+<p><a href="https://www.php.net/downloads">PHP</a> e qualquer editor de texto como o <a href="https://code.visualstudio.com/">VSCode</a> 
+  e o <a href="https://getcomposer.org/doc/00-intro.md">Composer</a></p>
 
 <h4 align="center">Rodando o projeto</h4>
 <p align="center">Clone este repositório</p>

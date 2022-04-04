@@ -32,6 +32,8 @@
 <h3 align="center">Rodando o projeto</h3>
 <li>
   <ul>Clone este repositório</ul>
+
+</li>
   <p>$ git clone https://github.com/heitorgonc/Shopping</p>
   <p align="center">Habilite o <a href="https://www.php.net/manual/en/ref.pdo-sqlite.php">pdo_sql</a> driver</p>
   <p align="center">Adicione o <a href="https://getcomposer.org/doc/01-basic-usage.md#autoloading">autoload</a></p>
@@ -42,7 +44,6 @@
   <p align="center">$ php createDatabase.php</p>
   <p align="center">Execute o arquivo principal</p>
   <p align="center">$ php index.php</p>
-</li>
 
 ### Tecnologias
 

@@ -26,10 +26,10 @@
 - [ ] Atualizar registro
 - [ ] Deletar registro
 
-<h4 align="center" id="preRequisitos">
+<h4 id="preRequisitos">
   Pré Requisitos
 </h4>
-<p align="center">
+<p>
   Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:
   <a href="https://www.php.net/downloads">PHP</a> e qualquer editor de texto como o <a href="https://code.visualstudio.com/">VSCode</a> 
   e o <a href="https://getcomposer.org/doc/00-intro.md">Composer</a> 

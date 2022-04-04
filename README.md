@@ -4,7 +4,7 @@
 
 <p align="center">
  <a href="#preRequisitos">Pré Requisitos</a> •
- <a href="#tecnologias">Tecnologias</a> •
+ <a href="#tecnologias">Tecnologias</a>
 </p>
 
 <h3 align="center"> Em desenvolvimento</h3>

@@ -12,9 +12,9 @@
  <a href="#autor">Autor</a>
 </p>
 
-### Em desenvolvimento
+<h3 align="center"> Em desenvolvimento</h3>
 
-### Features
+<h2>Features</h2>
 
 - [X] Conexão SQLITE
 - [X] Criando banco de dados

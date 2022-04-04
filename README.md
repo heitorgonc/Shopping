@@ -30,8 +30,8 @@
   e o <a href="https://getcomposer.org/doc/00-intro.md">Composer</a></p>
 
 <h3 align="center">Rodando o projeto</h3>
-<ul>Clone este repositório</ul>
-$ git clone https://github.com/heitorgonc/Shopping
+<h4 align="center">Clone este repositório</h4>
+<p align="center">$ git clone https://github.com/heitorgonc/Shopping</p>
   <p align="center">Habilite o <a href="https://www.php.net/manual/en/ref.pdo-sqlite.php">pdo_sql</a> driver</p>
   <p align="center">Adicione o <a href="https://getcomposer.org/doc/01-basic-usage.md#autoloading">autoload</a></p>
   <p align="center">$ php composer.phar dump-autoload</p>

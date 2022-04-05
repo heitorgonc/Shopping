@@ -28,16 +28,17 @@
 <h3>Rodando o projeto</h3>
 
 <h4 align="center">Clone este repositório</h4>
-<p align="center">$ git clone https://github.com/heitorgonc/Shopping</p>
+<p align="center">git clone https://github.com/heitorgonc/Shopping</p>
 <h4 align="center">Habilite o <a href="https://www.php.net/manual/en/ref.pdo-sqlite.php">pdo_sql</a> driver</h4>
+<h4 align="center">Entre na pasta do projeto</h4>
 <h4 align="center">Adicione o <a href="https://getcomposer.org/doc/01-basic-usage.md#autoloading">autoload</a></h4>
-<p align="center">$ php composer.phar dump-autoload</p>
+<p align="center">php composer.phar dump-autoload</p>
 <h4 align="center">Adicione o <a href="https://packagist.org/packages/symfony/dotenv">symfony/dotenv</a></h4>
-<p align="center">$ composer require symfony/dotenv</p>
+<p align="center">composer require symfony/dotenv</p>
 <h4 align="center">Crie o banco</h4>
-<p align="center">$ php createDatabase.php</p>
+<p align="center">php createDatabase.php</p>
 <h4 align="center">Execute o arquivo principal</h4>
-<p align="center">$ php index.php</p>
+<p align="center">php index.php</p>
 
 <h2 id="#tecnologias">Tecnologias</h2>
 

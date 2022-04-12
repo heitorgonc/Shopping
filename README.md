@@ -9,7 +9,7 @@
 
 <h3 align="center"> Em desenvolvimento</h3>
 
-<h3>Features</h3>
+<h3>Recursos</h3>
 
 - [X] Conexão SQLITE
 - [X] Criando banco de dados

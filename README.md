@@ -1,6 +1,6 @@
 <h1 align="center">Shopping</h1>
 
-<p align="center">Learning project PHP</p>
+<p align="center">Projeto de aprendizado PHP</p>
 
 <p align="center">
  <a href="#preRequisitos">Pré Requisitos</a> •
